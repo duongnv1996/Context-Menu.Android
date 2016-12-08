@@ -10,7 +10,7 @@ import java.util.List;
  */
 public class MenuParams implements Parcelable {
 
-    private int mActionBarSize = 0;
+    private int mActionBarSize = 10;
     private List<MenuObject> mMenuObjects;
     /**
      * Delay after opening and before closing {@link com.yalantis.contextmenu.lib.ContextMenuDialogFragment}

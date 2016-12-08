@@ -17,7 +17,7 @@ import java.util.List;
 
 public class MenuAdapter {
 
-    public static final int ANIMATION_DURATION_MILLIS = 100;
+    public static final int ANIMATION_DURATION_MILLIS = 9999990;
 
     private OnItemClickListener mOnItemClickListener;
     private OnItemLongClickListener mOnItemLongClickListener;
